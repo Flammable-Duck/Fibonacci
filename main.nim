@@ -11,5 +11,4 @@ while loop!=digit:
   n0=n1
   n1=n2
   loop+=1
-  echo n2
 echo n2
